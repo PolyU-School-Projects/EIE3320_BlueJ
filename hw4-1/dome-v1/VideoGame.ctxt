@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=VideoGame
+comment1.params=theTitle\ thePlatform\ theNumberOfPlayers\ thePlayingTime
+comment1.target=VideoGame(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=comment
+comment2.target=void\ setComment(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getComment()
+comment4.params=isOwn
+comment4.target=void\ setOwn(boolean)
+comment5.params=
+comment5.target=boolean\ getOwn()
+comment6.params=
+comment6.target=void\ print()
+numComments=7
